@@ -1,0 +1,137 @@
+2022-07-15 18:25:05,696 INFO root Creating an object of the class company
+2022-07-15 18:25:05,696 INFO root Classification of class variables as public, private and protected.
+2022-07-15 18:25:05,696 INFO root CEO of ineuron is: Sudhanshu Kumar
+2022-07-15 18:25:05,696 INFO root CFO of ineuron is: Krish Naik
+2022-07-15 18:25:05,696 INFO root CTO of ineuron is: Hitesh Choudhary
+2022-07-15 18:25:05,696 INFO root CBO of ineuron is: Manoj Kumar
+2022-07-15 18:25:05,696 INFO root CMO of ineuron is: Darius
+2022-07-15 18:25:05,696 INFO root Total developers in ineuron is: 15
+2022-07-15 18:25:05,696 INFO root Total analyst in ineuron is: 20
+2022-07-15 18:25:05,696 INFO root Total support team in ineuron is: 10
+2022-07-15 18:25:05,696 INFO root Total mle in ineuron is: 18
+2022-07-15 18:25:05,697 INFO root Total devops in ineuron is: 12
+2022-07-15 18:25:35,322 INFO root Creating an object of the class company
+2022-07-15 18:25:35,322 INFO root Classification of class variables as public, private and protected.
+2022-07-15 18:25:35,322 INFO root CEO of ineuron is: Sudhanshu Kumar
+2022-07-15 18:25:35,322 INFO root CFO of ineuron is: Krish Naik
+2022-07-15 18:25:35,322 INFO root CTO of ineuron is: Hitesh Choudhary
+2022-07-15 18:25:35,322 INFO root CBO of ineuron is: Manoj Kumar
+2022-07-15 18:25:35,322 INFO root CMO of ineuron is: Darius
+2022-07-15 18:25:35,322 INFO root Total developers in ineuron is: 15
+2022-07-15 18:25:35,322 INFO root Total analyst in ineuron is: 20
+2022-07-15 18:25:35,322 INFO root Total support team in ineuron is: 10
+2022-07-15 18:25:35,322 INFO root Total mle in ineuron is: 18
+2022-07-15 18:25:35,322 INFO root Total devops in ineuron is: 12
+2022-07-15 18:25:35,322 INFO root We are importing the company module from class_variables package
+2022-07-15 18:25:35,322 INFO root Classification of class variables as public, private and protected.
+2022-07-15 18:25:35,322 INFO root We provide drone solutions
+2022-07-15 18:25:35,322 INFO root services are: DRONES
+2022-07-15 18:25:35,322 INFO root We build cool mobile applications
+2022-07-15 18:25:35,322 INFO root services are: MOBILE APPS
+2022-07-15 18:25:35,322 INFO root We provide cloud solutions
+2022-07-15 18:25:35,322 INFO root services are: CLOUD SERVICES
+2022-07-15 18:25:35,322 INFO root We provide startup solutions
+2022-07-15 18:25:35,322 INFO root services are: STARTUP SOLUTION
+2022-07-15 18:25:35,322 INFO root We provide business solutions
+2022-07-15 18:25:35,322 INFO root services are: BUSINESS SOLUTIONS
+2022-07-15 18:25:35,322 INFO root We provide quality education and mentorship
+2022-07-15 18:25:35,322 INFO root services are: TRAINING PROGRAM
+2022-07-15 18:25:35,322 INFO root We provide free internships to everyone
+2022-07-15 18:25:35,322 INFO root services are: GLOBAL INTERNSHIP PROGRAM
+2022-07-15 18:25:46,934 INFO root INHERITANCE
+2022-07-15 18:25:46,934 INFO root Parent Class
+2022-07-15 18:25:46,934 INFO root Inherited class
+2022-07-15 18:25:46,934 INFO root Inherited sub class
+2022-07-15 18:25:46,934 INFO root Name of Student is: Subham Kumar
+2022-07-15 18:25:46,934 INFO root Multiple Courses are Available in all tech domains
+2022-07-15 18:25:46,934 INFO root Courses: GO TO COURSES
+2022-07-15 18:25:46,934 INFO root Students are eligible for free internships
+2022-07-15 18:25:46,934 INFO root Internship: FREE INTERNSHIP
+2022-07-15 18:25:46,934 INFO root OTT platform for a range of demanding quality courses
+2022-07-15 18:25:46,934 INFO root OTT: OTT FOR EDUCATION
+2022-07-15 18:25:46,934 INFO root Research team for product development
+2022-07-15 18:25:46,934 INFO root OTT: R&D centre for product development
+2022-07-15 18:25:46,934 INFO root Dev Team for app development
+2022-07-15 18:25:46,934 INFO root OTT: Business solutions to the company
+2022-07-15 18:25:53,552 INFO root METHOD OVERRIDING
+2022-07-15 18:25:53,552 INFO root Job Guarantee Programs by : Ineuron
+2022-07-15 18:25:53,552 INFO root Internship available for all students
+2022-07-15 18:25:53,552 INFO root course1: INEURON
+2022-07-15 18:25:53,552 INFO root Mentor for this course will be: Sudhanshu Kumar
+2022-07-15 18:25:53,552 INFO root Internship available for Data Science
+2022-07-15 18:25:53,552 INFO root course1: FSDS
+2022-07-15 18:25:53,552 INFO root Mentor for this course will be: Krish Naik
+2022-07-15 18:25:53,552 INFO root Internship available for Data Analytics
+2022-07-15 18:25:53,552 INFO root course1: FSDA
+2022-07-15 18:25:53,552 INFO root Mentor for this course will be: Hitesh Choudhary
+2022-07-15 18:25:53,552 INFO root Internship available for Web Development
+2022-07-15 18:25:53,552 INFO root course1: FSWD
+2022-07-15 18:25:53,552 INFO root Mentor for this course will be: Sourav Shukla
+2022-07-15 18:25:53,552 INFO root Internship available for IOT
+2022-07-15 18:25:53,553 INFO root course1: CPP
+2022-07-15 18:25:53,553 INFO root Mentor for this course will be: Navin Reddy
+2022-07-15 18:25:53,553 INFO root Internship available for Enterprise Java with Springboot.
+2022-07-15 18:25:53,553 INFO root course1: JSS
+2022-07-15 18:25:53,553 INFO root Mentor for this course will be: Saksham Choudhary
+2022-07-15 18:25:53,553 INFO root Internship available for Cyber Security
+2022-07-15 18:25:53,553 INFO root course1: CSM
+2022-07-15 18:25:53,553 INFO root Mentor for this course will be: Navin Reddy
+2022-07-15 18:25:53,553 INFO root Internship available for blockchain
+2022-07-15 18:25:53,553 INFO root course1: BLOCKCHAIN
+2022-07-15 18:25:53,553 INFO root Mentor for this course will be: Mahatmaji
+2022-07-15 18:25:53,553 INFO root Internship available for Digital Marketing
+2022-07-15 18:25:53,553 INFO root course1: DIGITAL MARKETING
+2022-07-15 18:25:58,963 INFO root ABSTRACTION
+2022-07-15 18:25:58,965 INFO root Employee Name: Subham Kumar
+2022-07-15 18:25:58,965 INFO root NAME ENTERED SUCCESSFULLY
+2022-07-15 18:25:58,965 INFO root Account Number: 12345678
+2022-07-15 18:25:58,965 INFO root ACCOUNT NUMBER ENTERED SUCCESSFULLY
+2022-07-15 18:25:58,965 INFO root Aadhar Number: 0987 8765 3456 6784
+2022-07-15 18:25:58,966 INFO root AADHAR NUMBER ENTERED SUCCESSFULLY
+2022-07-15 18:25:58,966 INFO root Salary: 12345678
+2022-07-15 18:25:58,966 INFO root SALARY ENTERED SUCCESSFULLY
+2022-07-15 18:25:58,966 INFO root Bank Name: ICICI
+2022-07-15 18:25:58,966 INFO root BANK NAME ENTERED SUCCESSFULLY
+2022-07-15 18:25:58,966 INFO root Month: JULY
+2022-07-15 18:25:58,966 INFO root MONTH ENTERED SUCCESSFULLY
+2022-07-15 18:25:58,983 INFO root Date: 15/07/2022
+2022-07-15 18:25:58,983 INFO root DATE ENTERED SUCCESSFULLY
+2022-07-15 18:25:58,983 INFO root Branch IFSC: icici1234567
+2022-07-15 18:25:58,983 INFO root BRANCH IFSC ENTERED SUCCESSFULLY
+2022-07-15 18:25:58,983 INFO root City: Bengaluru
+2022-07-15 18:25:58,983 INFO root CITY ENTERED SUCCESSFULLY
+2022-07-15 18:26:02,832 INFO root ENCAPSULATION
+2022-07-15 18:26:02,832 INFO root Your Current Working city is: Bengaluru
+2022-07-15 18:26:02,832 INFO root Your Current Working city is changed to Chennai
+2022-07-15 18:26:02,833 INFO root Your Current Role is Developer
+2022-07-15 18:26:02,833 INFO root New role: Senior Developer
+2022-07-15 18:26:02,833 INFO root ROLE UPDATED
+2022-07-15 18:26:02,833 INFO root Your Current Salary is 50000
+2022-07-15 18:26:02,833 INFO root New salary: 70000
+2022-07-15 18:26:02,833 INFO root SALARY UPDATED
+2022-07-15 18:26:02,833 INFO root Your Current working hours per week is 40
+2022-07-15 18:26:02,833 INFO root Workhours per week: 45
+2022-07-15 18:26:02,833 INFO root NEW WORK HOURS UPDATED
+2022-07-15 18:26:02,833 INFO root Your Current Benefits are ['HRA', 'TA']
+2022-07-15 18:26:02,833 INFO root New benefits: ['HRA', 'TA', 'LTA']
+2022-07-15 18:26:02,833 INFO root BENEFITS UPDATED
+2022-07-15 18:26:02,833 INFO root Your Current Week Off is: ['Saturday', 'Sunday']
+2022-07-15 18:26:02,833 INFO root Your Updated Week Off is: ['Monday', 'Tuesday']
+2022-07-15 18:26:07,207 INFO root POLYMORPHISM
+2022-07-15 18:26:07,207 INFO root SUDHANSHU SIR HAS MANY AVATARS
+2022-07-15 18:26:07,207 INFO root Sudhanshu Kumar is the CEO of ineuron
+2022-07-15 18:26:07,207 INFO root None
+2022-07-15 18:26:07,207 INFO root Sudhanshu Kumar is a chief developer in ineuron
+2022-07-15 18:26:07,207 INFO root None
+2022-07-15 18:26:07,207 INFO root Sudhanshu Kumar is a mentor for data courses in ineuron
+2022-07-15 18:26:07,207 INFO root None
+2022-07-15 18:26:07,207 INFO root Sudhanshu Kumar is motivator in ineuron
+2022-07-15 18:26:07,207 INFO root None
+2022-07-15 18:26:07,207 INFO root Sudhanshu Kumar is the owner of ineuron
+2022-07-15 18:26:07,207 INFO root None
+2022-07-15 18:26:07,207 INFO root Sudhanshu Kumar is everyone's friend
+2022-07-15 18:26:07,207 INFO root None
+2022-07-15 18:26:07,207 INFO root Sudhanshu Kumar is a Famous Youtuber
+2022-07-15 18:26:07,207 INFO root None
+2022-07-15 18:26:07,207 INFO root Sudhanshu Kumar is an Entrepreneur
+2022-07-15 18:26:07,207 INFO root None
